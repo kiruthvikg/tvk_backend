@@ -1,4 +1,4 @@
 
 * text=auto
-git config --global core.autocrlf true   # For Windows users
+git config --global core.autocrlf true   
 
