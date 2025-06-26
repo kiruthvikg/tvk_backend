@@ -9,8 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "vhjadvjah",
-  "type": "testjs",
+  "license": "ISC",
+  "type": "commonjs",
   "dependencies": {
     "body-parser": "^2.2.0",
     "cors": "^2.8.5",
